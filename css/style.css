@@ -37,7 +37,7 @@ header h1{
     margin-top: 15px;
     align-items:center;
     margin-right:3px;
-    border-radius: 10%;
+    border-radius: 10px;
     height:45%;
     
 }
@@ -103,10 +103,7 @@ header h1{
     vertical-align: middle;
     line-height: 10px;
     background-color: rgb(43, 145, 199);
-    border-top-left-radius: 25%;
-    border-top-right-radius: 25%;
-    border-bottom-left-radius: 25%;
-    border-bottom-right-radius: 25%;
+    border-radius:25px;
     align-content: center;
     padding-top:5px;
 }
@@ -123,10 +120,7 @@ header h1{
     vertical-align: middle;
     line-height: 10px;
     background-color: rgb(131, 55, 126);
-    border-top-left-radius: 25%;
-    border-top-right-radius: 25%;
-    border-bottom-left-radius: 25%;
-    border-bottom-right-radius: 25%;
+    border-radius:25px;
     align-content: center;
     padding-top:5px;
 }
@@ -143,10 +137,7 @@ header h1{
     vertical-align: middle;
     line-height: 10px;
     background-color: rgb(41, 199, 52);
-    border-top-left-radius: 25%;
-    border-top-right-radius: 25%;
-    border-bottom-left-radius: 25%;
-    border-bottom-right-radius: 25%;
+    border-radius:25px;
     align-content: center;
     padding-top:5px;
 }
@@ -163,10 +154,7 @@ header h1{
     vertical-align: middle;
     line-height: 10px;
     background-color: rgb(221, 129, 25);
-    border-top-left-radius: 25%;
-    border-top-right-radius: 25%;
-    border-bottom-left-radius: 25%;
-    border-bottom-right-radius: 25%;
+    border-radius:25px;
     align-content: center;
     padding-top:5px;
 }
@@ -183,10 +171,7 @@ header h1{
     vertical-align: middle;
     line-height: 10px;
     background-color: rgb(211, 34, 211);
-    border-top-left-radius: 25%;
-    border-top-right-radius: 25%;
-    border-bottom-left-radius: 25%;
-    border-bottom-right-radius: 25%;
+    border-radius:25px;
     align-content: center;
     padding-top:5px;
 }
@@ -203,10 +188,7 @@ header h1{
     vertical-align: middle;
     line-height: 10px;
     background-color: rgb(31, 234, 38);
-    border-top-left-radius: 25%;
-    border-top-right-radius: 25%;
-    border-bottom-left-radius: 25%;
-    border-bottom-right-radius: 25%;
+    border-radius:25px;
     align-content: center;
     padding-top:5px;
 }
