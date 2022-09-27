@@ -19,3 +19,38 @@ header img{
 header h1{
     font-size: 32px;
 }
+
+/* Barra interattiva */
+
+.container{
+    width:80%;
+    margin: 0 10%;
+    background-color: white;
+}
+
+#superior{
+    height: 50px;
+    border-bottom: 5px solid azure;
+}
+
+#superior button{
+    margin-top: 15px;
+    align-items:center;
+    margin-right:3px;
+    border-radius: 10%;
+    height:45%;
+    
+}
+.task{
+    margin-left:50px;
+    background-color: rgb(0, 153, 255);
+    border: white;
+    color: white;
+    width: 8%;
+}
+.section{
+    width: 8%;
+    border:1px solid rgba(128, 128, 128, 0.875);
+    color: rgba(128, 128, 128, 0.875);
+    background-color:white;
+}
