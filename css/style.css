@@ -1,0 +1,21 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    background-color: azure;
+}
+
+/* Intestazione */
+header{
+    background-color: white;
+    margin-bottom: 30px;
+}
+header div{
+    display:inline-flex;
+    align-items: center;
+}
+header img{
+    margin: 5px;
+}
+header h1{
+    font-size: 32px;
+}
